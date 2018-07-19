@@ -1,0 +1,12 @@
+{
+    "name": "foo",
+    "version": "0.0.0",
+    "dependencies": {
+        "@angular/animations": "^6.0.9",
+        "@angular/cdk": "^6.3.3",
+        "@angular/material": "^6.3.3",
+        "express": "^4.16.3",
+        "fs": "0.0.1-security"
+    },
+    "devDepencies": {}
+}
